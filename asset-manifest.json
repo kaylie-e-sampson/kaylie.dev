@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/%7Bkayliesampson.me%7D/static/css/main.073c9b0a.css",
+    "main.js": "/%7Bkayliesampson.me%7D/static/js/main.01eace5a.js",
+    "static/js/787.001157c6.chunk.js": "/%7Bkayliesampson.me%7D/static/js/787.001157c6.chunk.js",
+    "static/media/logo.svg": "/%7Bkayliesampson.me%7D/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/%7Bkayliesampson.me%7D/index.html",
+    "main.073c9b0a.css.map": "/%7Bkayliesampson.me%7D/static/css/main.073c9b0a.css.map",
+    "main.01eace5a.js.map": "/%7Bkayliesampson.me%7D/static/js/main.01eace5a.js.map",
+    "787.001157c6.chunk.js.map": "/%7Bkayliesampson.me%7D/static/js/787.001157c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.01eace5a.js"
+  ]
+}
