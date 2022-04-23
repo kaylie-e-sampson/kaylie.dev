@@ -1,6 +1,6 @@
 {
-  "homepage": "https://{kaylie-e-sampson}.github.io/{kayliesampson.me}",
   "name": "kayliesampson.me",
+  "homepage": "https://{kaylie-e-sampson}.github.io/{kayliesampson.me}",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
