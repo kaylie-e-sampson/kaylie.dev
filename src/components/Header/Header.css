@@ -1,0 +1,13 @@
+.Header {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+
+    align-items: baseline;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-bottom: 2em;
+    background-color: #54677D;
+    color: #fff;
+  }
