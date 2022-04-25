@@ -1,0 +1,14 @@
+.Header {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    gap:5%;
+    align-items: baseline;
+    padding-top: .5em;
+    padding-bottom: .5em;
+    margin-bottom: 2em;
+    background-color: #54677D;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+  }
