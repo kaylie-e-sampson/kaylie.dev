@@ -1,18 +1,16 @@
-import emoji from './kaylieEmoji.png';
+import React from 'react';
 import './App.css';
 import Header from './components/Header/Header';
+import Title from './components/Title/Title';
+import About from './components/About/About';
+
 
 function App() {
   return (
     <div className="App">
       <Header />
-      <img src={emoji} alt="emoji"/>
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Kaylie Sampson's Personal Website
-        </p>
-      </header> */}
+      <Title />
+      <About />
     </div>
   );
 }
