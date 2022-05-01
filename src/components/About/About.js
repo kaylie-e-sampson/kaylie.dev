@@ -1,9 +1,11 @@
 import React from 'react';
 import './About.css';
+import Profile from "../Profile/Profile";
 
 function About() {
   return (
-    <div className="About">
+    <div className="Profile">
+      <Profile />
       <div>
         <h4>
           Hey there 👋, I’m

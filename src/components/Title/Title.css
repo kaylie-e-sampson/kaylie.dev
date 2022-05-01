@@ -3,9 +3,9 @@
     width: 100%;
     display: flex;
     justify-content: space-around;
-    padding-top: 1em;
-    padding-bottom: 1em;
-    margin-bottom: 2em;
+    padding-top: 5em;
+    padding-bottom: 10em;
+    margin-bottom: 5em;
     padding-left: 2em;
     text-align:left;
   }
@@ -13,22 +13,25 @@ h1,h2,h3,h4,h5,h6 {
     font-family: 'Poppins', sans-serif;
 }
 h1 {
-    font-size: 600%;
+    font-size: 700%;
     font-weight: 300%;
     margin: 0;
     color: #384D65;
     line-height:115%;
 }
 h4 {
-    font-size: 100%;
+    font-size: 140%;
     font-weight: 300%;
     color: #F88080;
     line-height:0%;
 }
 h3 {
-    font-size: 150%;
-    font-weight: 300%;
+    font-size: 200%;
+    font-weight: 350%;
     color: #F88080;
+}
+img {
+    object-fit: cover;
 }
 
   
