@@ -1,0 +1,18 @@
+.About {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5em;
+    padding-bottom: 10em;
+    margin-bottom: 5em;
+    padding-left: 2em;
+    text-align: left;
+  }
+.Description{
+    width: 200%;
+}
+img {
+    object-fit: cover;
+}
+

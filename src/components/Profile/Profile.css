@@ -6,13 +6,15 @@
 }
 .imgContainer {
     position: relative;
+    width: 500px;
+    height: 600px;
     top: 0;
     left: 0;
   }
     
 .profileBackground {
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     position: relative;
     top: 0;
     left: 0;
@@ -20,8 +22,8 @@
     background: #F88080;;
 }
 .imgProfile {
-    width: 300px;
-    height: 400px;
+    width: 400px;
+    height: 500px;
     position: absolute;
     top: 30px;
     left: 30px;
