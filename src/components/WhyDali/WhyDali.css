@@ -12,6 +12,7 @@
 .Description {
     width: 200%;
     box-sizing: border-box;
+    margin-inline: 0% 5%;;
 
 }
 .imgContainer {
@@ -25,7 +26,8 @@
     top: 30px;
     left: 30px;
     border: 1px;
-    background: #F88080;;
+    background: #F88080;
+    margin-right: 10em,
 }
 .imgWISP {
     width: 400px;
