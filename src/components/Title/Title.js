@@ -5,10 +5,10 @@ import { config } from 'react-spring'
 import ReactTextTransition from "react-text-transition";
 
 const TEXTS = [
-  "and waterskiier. 🏄‍♀️",
-  "and tree-hugger. 🌲",
-  "and weightlifter. 🏋️‍♀️",
-  "and optimist. 🥛"
+  "waterskiier. 🏄‍♀️",
+  "tree-hugger. 🌲",
+  "weightlifter. 🏋️‍♀️",
+  "optimist. 🥛"
 ];
 
 const Title = () => {
@@ -32,11 +32,12 @@ const Title = () => {
           Kaylie <br/>
           Sampson
         </h1>
-        <h3>
-          I'm a developer, student <br />
-          <ReactTextTransition
+        <h3 >
+          I'm a developer, student,<br />
+          and <ReactTextTransition
           text={ TEXTS[index % TEXTS.length] }
           springConfig={ config.default }
+          inline
         />
         </h3>
       </div>
