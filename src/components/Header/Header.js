@@ -11,8 +11,8 @@ function Header() {
       <Link activeClass="active" to="about" spy={true} smooth={true} offset={-70} duration={500} >
         <div className="HeaderItem"> About </div>
       </Link>
-      <Link activeClass="active" to="projects" spy={true} smooth={true} offset={-70} duration={500} >
-        <div className="HeaderItem"> Projects </div>
+      <Link activeClass="active" to="whyDali" spy={true} smooth={true} offset={-70} duration={500} >
+        <div className="HeaderItem"> Why DALI? </div>
       </Link>
     </div>
   )

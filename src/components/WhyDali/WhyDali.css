@@ -1,0 +1,39 @@
+.WhyDali {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    padding-right: 5em;
+    padding-left: 5em;
+    text-align: left;
+  }
+.Description {
+    width: 200%;
+    box-sizing: border-box;
+
+}
+.imgContainer {
+    width: 500px;
+    height: 600px;
+  }
+.wispBackground {
+    width: 400px;
+    height: 500px;
+    position: relative;
+    top: 30px;
+    left: 30px;
+    border: 1px;
+    background: #F88080;;
+}
+.imgWISP {
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+img {
+    object-fit: cover;
+}
