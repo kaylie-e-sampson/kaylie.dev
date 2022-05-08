@@ -6,10 +6,14 @@
     padding-top: 13em;
     padding-bottom: 10em;
     margin-bottom: 5em;
-    padding-left: 2em;
+    padding-left: 5em;
+    padding-right: 7em;
     text-align:left;
     width:100%;
   }
+.Emoji {
+  transform: scale(1.2, 1.2);
+}
 img {
     object-fit: cover;
 }
