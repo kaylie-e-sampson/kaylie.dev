@@ -4,7 +4,7 @@ import Profile from "../Profile/Profile";
 
 function About() {
   return (
-    <div className="About">
+    <div id="about" className="About">
       <Profile />
       <div className="Description">
           <h4>

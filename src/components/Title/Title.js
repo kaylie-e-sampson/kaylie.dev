@@ -4,7 +4,7 @@ import emoji from '../../assets/kaylieEmoji.png';
 
 function Title() {
   return (
-    <div className="Title">
+    <div id="title" className="Title">
       <div>
         <h4>
           Hey there 👋, I’m
