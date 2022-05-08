@@ -5,12 +5,21 @@
     justify-content: flex-end;
     gap:5%;
     align-items: baseline;
-    padding-top: .5em;
+    padding-top: 1.5em;
     padding-right: 2em;
-    padding-bottom: .5em;
+    padding-bottom: 1.5em;
     margin-bottom: 2em;
     background-color: #54677D;
     color: #fff;
-    font-family: 'Poppins', sans-serif;
     position: fixed;
+    z-index: 99;
+  }
+  .active {
+    box-shadow:inset 0px -3px 0px 0px #fff
+  }
+  .HeaderItem{
+    font-size: 1.5em;
+    font-family: 'Poppins', sans-serif;
+    cursor:pointer;
+    font-weight: bold;
   }

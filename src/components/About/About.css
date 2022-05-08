@@ -6,13 +6,11 @@
     padding-top: 10em;
     padding-bottom: 10em;
     margin-bottom: 5em;
+    padding-right: 5em;
     padding-left: 2em;
     text-align: left;
   }
 .Description{
     width: 200%;
-}
-img {
-    object-fit: cover;
 }
 
