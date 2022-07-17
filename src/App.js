@@ -3,7 +3,7 @@ import './App.css';
 import Header from './components/Header/Header';
 import Title from './components/Title/Title';
 import About from './components/About/About';
-import WhyDali from './components/WhyDali/WhyDali'
+import Experience from './components/Experience/Experience'
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
       <Header />
       <Title />
       <About/>
-      <WhyDali />
+      <Experience />
     </div>
   );
 }

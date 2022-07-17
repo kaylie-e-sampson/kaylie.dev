@@ -1,0 +1,15 @@
+.Experience {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10em;
+    padding-bottom: 10em;
+    padding-right: 5em;
+    padding-left: 5em;
+    text-align: left;
+  }
+.Timeline {
+    width: "500px";
+    height: "400px"
+}
