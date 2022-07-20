@@ -14,16 +14,16 @@
     position: fixed;
     z-index: 99;
   }
-  .active {
+  .HeaderItem:active, .HeaderItem:focus, .HeaderItem:hover, :target {
     box-shadow:inset 0px -3px 0px 0px #fff
   }
+
   .HeaderItem{
     font-size: 1.5em;
     font-family: 'Poppins', sans-serif;
     cursor:pointer;
     font-weight: bold;
   }
-  a{
-    color:#fff;
+  a {
     text-decoration:none;
   }

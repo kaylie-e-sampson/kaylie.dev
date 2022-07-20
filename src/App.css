@@ -51,3 +51,6 @@ h7 {
   color: #384D65;
   line-height:115%;
 }
+img {
+  Object-fit: cover;
+}

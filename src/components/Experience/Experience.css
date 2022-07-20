@@ -9,7 +9,6 @@
     padding-left: 5em;
     text-align: left;
   }
-.Timeline {
-    width: "500px";
-    height: "400px"
+.experiences:active{
+  box-shadow:inset 0px -3px 0px 0px #fff
 }
