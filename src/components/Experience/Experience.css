@@ -2,13 +2,20 @@
     box-sizing: border-box;
     width: 100%;
     display: flex;
-    justify-content: space-around;
-    padding-top: 10em;
+    padding-top: 20em;
     padding-bottom: 10em;
     padding-right: 5em;
     padding-left: 5em;
     text-align: left;
-  }
-.experiences:active{
-  box-shadow:inset 0px -3px 0px 0px #fff
+    text-decoration: none;
+}
+#content {
+  display: flex;
+  flex-direction: row;
+}
+.rightContent {
+  align-items: left;
+  justify-content: left;
+  align-content: left;
+  justify-items: left;
 }

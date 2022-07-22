@@ -10,14 +10,14 @@
     padding-bottom: 1.5em;
     margin-bottom: 2em;
     background-color: #54677D;
+    
     color: #fff;
     position: fixed;
     z-index: 99;
   }
-  .HeaderItem:active, .HeaderItem:focus, .HeaderItem:hover, :target {
+  .itemActive {
     box-shadow:inset 0px -3px 0px 0px #fff
   }
-
   .HeaderItem{
     font-size: 1.5em;
     font-family: 'Poppins', sans-serif;
