@@ -2,20 +2,22 @@
     box-sizing: border-box;
     width: 100%;
     display: flex;
-    padding-top: 20em;
-    padding-bottom: 10em;
-    padding-right: 5em;
-    padding-left: 5em;
-    text-align: left;
+    padding-top: 5em;
+    padding-bottom: 20em;
     text-decoration: none;
+    flex-direction: column;
+    text-align:left;
+
 }
 #content {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
+}
+.chrono {
+  margin-bottom:5%;
+  margin-left:5%;
+  margin-right:5%
 }
 .rightContent {
-  align-items: left;
-  justify-content: left;
-  align-content: left;
-  justify-items: left;
+  margin-right: 5%;
 }

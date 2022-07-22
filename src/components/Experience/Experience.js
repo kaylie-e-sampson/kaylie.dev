@@ -19,7 +19,7 @@ const Experience = () => {
     title: "May 1940",
     cardTitle: "Women in Computer Science",
     cardSubtitle:"Recruiting Chair",
-    cardDetailedText: "Men of the British Expeditionary Force (BEF) wade out to..",
+    cardDetailedText: "blah blah blah",
   }];
 
     const theme = {
@@ -27,8 +27,8 @@ const Experience = () => {
       secondary: '#384D65',
       cardBgColor: '#F6F39D',
       cardForeColor: '#384D65',
-      titleColor: '#F88080',
-      titleCoverActive: '#384D65'
+      titleColor: '#F88080'
+
     }
 
     const fontSizes = {
@@ -39,17 +39,22 @@ const Experience = () => {
     }
 
     return (
-      <div id ='experience' style={{  paddingRight:60 }}>
-        <h5>Experience</h5>
+      <div className="Experience" id='experience' style={{flexDirection:"row"}}>
+        
         <div id = 'content'>
-           <Chrono classname = 'experience' items={items} slideShow mode="VERTICAL" theme={theme} fontSizes={fontSizes} hideControls={true} lineWidth={5} activeItemIndex={-1} />
-           <div className = 'rightContent'>
+          <h5 style={{marginLeft: "10%"}}>Experience</h5>
+          <div className="chrono">
+            <Chrono items={items} slideShow mode="VERTICAL" theme={theme} fontSizes={fontSizes} hideControls={true} lineWidth={5} activeItemIndex={-1} />
+           </div>
+        </div>
+        <div className = 'rightContent'>
              <h2>Education</h2>
              <hr></hr>
+             <h7>Dartmouth College - 2025</h7> <br/>
+             <h7>Harvard Extention School</h7>
               <h2>Courses</h2>
               <hr></hr>
            </div>
-        </div>
       </div>
     )
   }

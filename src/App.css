@@ -5,7 +5,6 @@
 
 hr {
   background-color: #F88080;
-  width: 85%;
   height: 5px;
 }
 h1,h2,h3,h4,h5,h6 {
@@ -14,9 +13,9 @@ h1,h2,h3,h4,h5,h6 {
 h1 {
   font-size: 750%;
   font-weight: 300%;
-  margin: 0;
   color: #384D65;
   line-height:115%;
+  margin: 0;
 }
 h2 {
   font-size: 300%;
@@ -47,7 +46,6 @@ h6 {
   font-weight: 100%;
   margin: 0;
   color: #384D65;
-  line-height:115%;
 }
 h7 {
   font-size: 150%;
