@@ -66,10 +66,6 @@ const Experience = () => {
           <h8>NCWIT</h8><br></br><h8><em>Campus Representative</em></h8><br></br><br></br>
           <h8>Women in Computer Science</h8><br></br><h8><em>Recruiting Chair</em></h8><br></br><br></br>
           <h8>CoderDojo</h8><br></br><h8><em>Member</em></h8><br></br><br></br>
-          
-          {/* <h7>Introduction to Mobile Application Development using Swift/IOS</h7> <br/>
-          <h7>Software Design and Implementation</h7> <br/>
-          <h7>Problem Solving via Object-Oriented Programming</h7> <br/> */}
         </div>
       </div>
     )

@@ -15,13 +15,10 @@ function Header() {
       <Link activeClass="itemActive" to="experience" spy={true} smooth={true} offset={-70} duration={500} style={{color: 'FFFFFF'}}>
         <div className="HeaderItem"> Experience </div>
       </Link>
-      <Link activeClass="itemActive" to="projects" spy={true} smooth={true} offset={-70} duration={500} style={{color: 'FFFFFF'}}>
+      {/* <Link activeClass="itemActive" to="projects" spy={true} smooth={true} offset={-70} duration={500} style={{color: 'FFFFFF'}}>
         <div className="HeaderItem"> Projects </div>
-      </Link>
-      <a href={pdf} target="_blank" rel="noreferrer" className='HeaderItem' style={{color: 'white'}}>Resume</a>
-      {/* <Link activeClass="active" to="whyDali" spy={true} smooth={true} offset={-70} duration={500} >
-        <div className="HeaderItem"> Resume </div>
       </Link> */}
+      <a href={pdf} target="_blank" rel="noreferrer" className='HeaderItem' style={{color: 'white'}}>Resume</a>
     </div>
   )
 }

@@ -3,7 +3,6 @@
     width: 100%;
     display: flex;
     padding-top: 5em;
-    padding-bottom: 20em;
     text-decoration: none;
     flex-direction: column;
     text-align:left;
@@ -16,7 +15,8 @@
 .chrono {
   margin-bottom:5%;
   margin-left:5%;
-  margin-right:5%
+  margin-right:5%;
+  pointer-events:none;
 }
 .rightContent {
   margin-right: 5%;
