@@ -50,9 +50,9 @@ const Experience = () => {
       <div className="Experience" id='experience' style={{flexDirection:"row"}}>
         
         <div id = 'content'>
-          <h5 style={{marginLeft: "10%"}}>Experience</h5>
+          <h5 className="title" >Experience</h5>
           <div className="chrono">
-            <Chrono items={experienceItems} slideShow mode="VERTICAL" theme={theme} fontSizes={fontSizes} hideControls={true} lineWidth={5} activeItemIndex={-1} />
+            <Chrono items={experienceItems} slideShow mode="VERTICAL" theme={theme} fontSizes={fontSizes} hideControls={true} lineWidth={5} activeItemIndex={-1} useReadMore={false} />
            </div>
         </div>
         <div className = 'rightContent'>

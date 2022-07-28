@@ -9,9 +9,14 @@
     padding-left: 5em;
     text-align: left;
   }
-.Description{
-    width: 200%;
-    box-sizing: border-box;
-
+.Content {
+  flex-wrap:wrap;
 }
-
+@media (max-width: 1300px) {
+  .About {
+    text-align: center;
+    flex-wrap:wrap;
+    padding-bottom: 5em;
+    padding-top: 8.5em
+  }
+}
