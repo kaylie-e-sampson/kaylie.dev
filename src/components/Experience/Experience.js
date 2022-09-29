@@ -7,7 +7,7 @@ const Experience = () => {
     title: "Jan 2022 - Present",
     cardTitle: "Digital Applied Learning and Innovation (DALI) Lab",
     cardSubtitle: "Software Developer",
-    cardDetailedText: "As a developer in the lab, I collaborate closely with a team of four undergraduates to design, prototype, build and deploy a functioning app and develop front and back-end logic for mobile applications using React, React-Native, and Redux"
+    cardDetailedText: "As a developer in the lab, I collaborate with designers and other developers to produce frontend and backend logic for mobile applications using React, React-Native, and Redux. I also learn about different backend and frontend web development tools and styles from more senior members and from teammates while solving real-world problems with working prototypes each term"
   },
     {
     title: "Jun 2022 - September 2022",
