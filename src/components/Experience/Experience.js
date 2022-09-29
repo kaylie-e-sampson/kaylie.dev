@@ -4,29 +4,28 @@ import './Experience.css';
 
 const Experience = () => {
   const experienceItems = [{
-    title: "Jun 2022 - Present",
+    title: "Jan 2022 - Present",
+    cardTitle: "Digital Applied Learning and Innovation (DALI) Lab",
+    cardSubtitle: "Software Developer",
+    cardDetailedText: "As a developer in the lab, I collaborate closely with a team of four undergraduates to design, prototype, build and deploy a functioning app and develop front and back-end logic for mobile applications using React, React-Native, and Redux"
+  },
+    {
+    title: "Jun 2022 - September 2022",
     cardTitle: "Pegasystems",
     cardSubtitle:"Software Engineer Intern",
-    cardDetailedText: "Develops resources that support microservices, internally used testing infrastructure, and related features. Participates in daily standup, sprints, and full agile process as part of a team of five software engineers. Utilizes Docker, Gradle, and Jenkins to build and implement tests"
+    cardDetailedText: "As a member on the Cloud-Native Runtime team, I developd resources that support microservices, internally used testing infrastructure, and related features, participated in daily standup, sprints, and full agile process as part of a team of five software engineers, and utilized Docker, Gradle, and Jenkins to build and implement tests"
   },
   {
     title: "Jun 2022 - Present",
     cardTitle: "Rewriting the Code",
     cardSubtitle:"Student Council Peer Leader",
-    cardDetailedText:"Amplifies the voice and values of first-year/sophomore undergraduate women studying computer science. Serves as an active contributor concerning policies or actions adopted by RTC. Participates in leadership learning workshops as part of the RTC Rising Leader Institute",
-
-  },
-  {
-    title: "Jan 2022 - Present",
-    cardTitle: "Digital Applied Learning and Innovation (DALI) Lab",
-    cardSubtitle: "Software Developer",
-    cardDetailedText: "Collaborated closely with a team of four undergraduates to design, prototype, build and deploy a functioning app • Developed front and back-end logic for mobile applications using React, React-Native, and Redux",
+    cardDetailedText:"As a student leader, I Amplify the voice and values of first-year/sophomore undergraduate women studying computer science, serve as an active contributor concerning policies or actions adopted by RTC, and participate in leadership learning workshops as part of the RTC Rising Leader Institute",
   },
   {
     title: "Jan 2022 - Jun 2022",
     cardTitle: "Women in Computer Science",
     cardSubtitle: "Recruiting Chair",
-    cardDetailedText: "Conducts meetings for recruiting preparation, technical interview practice, and organized interview workshops. Managed relationships with company recruiters and the Center of Professional Development at Dartmouth" 
+    cardDetailedText: "As a member of the executive board, I conduct meetings for recruiting preparation, technical interview practice, and organize interview workshops. I also manage relationships with company recruiters and the Center of Professional Development at Dartmouth" 
   }
   ];
 
@@ -63,7 +62,7 @@ const Experience = () => {
           <h8>Summer 7-week program (2020)</h8> <br/>
           <h2>Organizations</h2>
           <h8>Rewriting the Code</h8><br></br><h8><em>Student Leader</em></h8><br></br><br></br>
-          <h8>NCWIT</h8><br></br><h8><em>Campus Representative</em></h8><br></br><br></br>
+          <h8>HackDartmouth</h8><br></br><h8><em>Career Hub Contributor</em></h8><br></br><br></br>
           <h8>Women in Computer Science</h8><br></br><h8><em>Recruiting Chair</em></h8><br></br><br></br>
           <h8>CoderDojo</h8><br></br><h8><em>Member</em></h8><br></br><br></br>
         </div>
