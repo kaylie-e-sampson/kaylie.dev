@@ -13,7 +13,7 @@ const Experience = () => {
     title: "Jun 2022 - September 2022",
     cardTitle: "Pegasystems",
     cardSubtitle:"Software Engineer Intern",
-    cardDetailedText: "As a member on the Cloud-Native Runtime team, I developd resources that support microservices, internally used testing infrastructure, and related features, participated in daily standup, sprints, and full agile process as part of a team of five software engineers, and utilized Docker, Gradle, and Jenkins to build and implement tests"
+    cardDetailedText: "As a member of the Cloud-Native Runtime team, I developed resources that support microservices, internally used testing infrastructure, and related features, participated in daily standup, sprints, and full agile process as part of a team of five software engineers, and utilized Docker, Gradle, and Jenkins to build and implement tests"
   },
   {
     title: "Jun 2022 - Present",
