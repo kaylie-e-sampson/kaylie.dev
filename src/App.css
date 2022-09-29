@@ -1,6 +1,7 @@
 .App {
   text-align: center;
   background-color: #F6F39D;
+  margin-right: 0;
 }
 
 hr {
@@ -67,3 +68,4 @@ h8 {
 img {
   Object-fit: cover;
 }
+
