@@ -5,7 +5,7 @@ import './Footer.css';
 function Footer() {
   return (
     <div className="Footer">
-        <div className="HeaderItem"> Kaylie Sampson (2022) </div>
+        <div className="FooterItem"> Kaylie Sampson (2022) </div>
         <div className="SocialIcons">
           <SocialIcon url="mailto:kksamps2@gmail.com" network="mailto" fgColor='white' bgColor="#54677D" style={{ height: 70, width: 70 }}></SocialIcon>
           <SocialIcon url="https://github.com/kaylie-e-sampson" network="github" fgColor='white' bgColor="#54677D" style={{ height: 70, width: 70 }}></SocialIcon>

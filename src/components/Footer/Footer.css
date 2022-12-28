@@ -10,4 +10,11 @@
     align-items: center;
     padding-right: 2em;
     padding-left: 2em;
+    
+  }
+  .FooterItem{
+    font-size: 1.4em;
+    font-family: 'Poppins', sans-serif;
+    cursor:default;
+    font-weight: bold;
   }
