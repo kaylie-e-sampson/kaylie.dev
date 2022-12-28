@@ -5,10 +5,10 @@ import { config } from 'react-spring'
 import ReactTextTransition from "react-text-transition";
 
 const TEXTS = [
-  "water skiier. 🏄‍♀️",
+  "water skier. 🏄‍♀️",
   "tree-hugger. 🌲",
   "weightlifter. 🏋️‍♀️",
-  "optimist. 🥛",
+  "cross country skier. ⛷",
   "scrapbooker. 📓"
 ];
 

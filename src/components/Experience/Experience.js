@@ -6,8 +6,14 @@ const Experience = () => {
   const experienceItems = [{
     title: "Jan 2022 - Present",
     cardTitle: "Digital Applied Learning and Innovation (DALI) Lab",
-    cardSubtitle: "Software Developer",
-    cardDetailedText: "As a developer in the lab, I collaborate with designers and other developers to produce frontend and backend logic for mobile applications using React, React-Native, and Redux. I also learn about different backend and frontend web development tools and styles from more senior members and from teammates while solving real-world problems with working prototypes each term"
+    cardSubtitle: "Software Developer, Mentor",
+    cardDetailedText: "As a development mentor in the lab, I collaborate with designers and other developers to produce frontend and backend logic for mobile applications using React, React-Native, and Redux. I also move DALI developers forward by encouraging quality work, developing better systems and resources, and providing mentorship"
+  },
+  {
+    title: "Jan 2023 - Present",
+    cardTitle: "Dartmouth Computer Science Department",
+    cardSubtitle:"Teaching Assistant",
+    cardDetailedText: "As a teaching assistant for CS1 (Introduction to Programming and Computation), I lead groups of students in weekly meetings to reinforce fundamental concepts and teach new ideas. I also provide guidance and mentorship throughout the term to students struggling with class concepts and programming labs."
   },
     {
     title: "Jun 2022 - September 2022",
@@ -62,8 +68,9 @@ const Experience = () => {
           <h8>Summer 7-week program (2020)</h8> <br/>
           <h2>Organizations</h2>
           <h8>Rewriting the Code</h8><br></br><h8><em>Student Leader</em></h8><br></br><br></br>
-          <h8>HackDartmouth</h8><br></br><h8><em>Career Hub Contributor</em></h8><br></br><br></br>
+          <h8>HackDartmouth</h8><br></br><h8><em>Developer & Career Hub Contributor</em></h8><br></br><br></br>
           <h8>Women in Computer Science</h8><br></br><h8><em>Recruiting Chair</em></h8><br></br><br></br>
+          <h8>Dartmouth Club Nordic</h8><br></br><h8><em>Member</em></h8><br></br><br></br>
           <h8>CoderDojo</h8><br></br><h8><em>Member</em></h8><br></br><br></br>
         </div>
       </div>
