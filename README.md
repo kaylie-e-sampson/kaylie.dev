@@ -11,9 +11,7 @@ This website was deployed using Netlify. The website can be found [here.](https:
 
 ## Content
 
-This was initially created for the DALI Basic Webpage Challenge. It showcases some information about myself and why I want to work at DALI. 
-
-I will continue to add more content as I continue to grow as a developer.
+This was initially created for the DALI Basic Webpage Challenge. I will continue to add more content as I continue to grow as a developer.
 
 ## Features
 
