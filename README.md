@@ -9,10 +9,6 @@
 
 This website was deployed using Netlify. The website can be found [here.](https://kayliesampson.me/)
 
-## Content
-
-This was initially created for the DALI Basic Webpage Challenge. I will continue to add more content as I continue to grow as a developer.
-
 ## Features
 
 The different sections of the website are loaded from js objects in `App`. 
