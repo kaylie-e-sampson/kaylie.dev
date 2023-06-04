@@ -7,7 +7,7 @@
 
 ## Deployment
 
-This website was deployed using Netlify. The website can be found [here.](https://kayliesampson.me/)
+This website was deployed using Netlify. The website can be found [here.](https://kaylie.dev/)
 
 ## Features
 

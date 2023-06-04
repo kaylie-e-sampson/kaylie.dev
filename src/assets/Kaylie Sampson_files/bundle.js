@@ -7,7 +7,7 @@
   \********************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -23,7 +23,7 @@ __webpack_require__.r(__webpack_exports__);
 /* provided dependency */ var __react_refresh_utils__ = __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js");
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 
-var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kayliesampson.me/src/App.js";
+var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kaylie.dev/src/App.js";
 
 
 
@@ -105,7 +105,7 @@ if (typeof Promise !== 'undefined' && $ReactRefreshCurrentExports$ instanceof Pr
   \***************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -118,7 +118,7 @@ __webpack_require__.r(__webpack_exports__);
 /* provided dependency */ var __react_refresh_utils__ = __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js");
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 
-var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kayliesampson.me/src/components/About/About.js";
+var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kaylie.dev/src/components/About/About.js";
 
 
 
@@ -223,7 +223,7 @@ if (typeof Promise !== 'undefined' && $ReactRefreshCurrentExports$ instanceof Pr
   \*************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -236,7 +236,7 @@ __webpack_require__.r(__webpack_exports__);
 /* provided dependency */ var __react_refresh_utils__ = __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js");
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 
-var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kayliesampson.me/src/components/Experience/Experience.js";
+var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kaylie.dev/src/components/Experience/Experience.js";
 
 
 
@@ -351,7 +351,7 @@ if (typeof Promise !== 'undefined' && $ReactRefreshCurrentExports$ instanceof Pr
   \*****************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -365,7 +365,7 @@ __webpack_require__.r(__webpack_exports__);
 /* provided dependency */ var __react_refresh_utils__ = __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js");
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 
-var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kayliesampson.me/src/components/Header/Header.js";
+var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kaylie.dev/src/components/Header/Header.js";
 
 
 
@@ -530,7 +530,7 @@ if (typeof Promise !== 'undefined' && $ReactRefreshCurrentExports$ instanceof Pr
   \*******************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -543,7 +543,7 @@ __webpack_require__.r(__webpack_exports__);
 /* provided dependency */ var __react_refresh_utils__ = __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js");
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 
-var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kayliesampson.me/src/components/Profile/Profile.js";
+var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kaylie.dev/src/components/Profile/Profile.js";
 
 
 
@@ -627,7 +627,7 @@ if (typeof Promise !== 'undefined' && $ReactRefreshCurrentExports$ instanceof Pr
   \***************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -642,7 +642,7 @@ __webpack_require__.r(__webpack_exports__);
 /* provided dependency */ var __react_refresh_utils__ = __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js");
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 
-var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kayliesampson.me/src/components/Title/Title.js",
+var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kaylie.dev/src/components/Title/Title.js",
     _s = __webpack_require__.$Refresh$.signature();
 
 
@@ -774,7 +774,7 @@ if (typeof Promise !== 'undefined' && $ReactRefreshCurrentExports$ instanceof Pr
   \**********************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
@@ -786,7 +786,7 @@ __webpack_require__.r(__webpack_exports__);
 /* provided dependency */ var __react_refresh_utils__ = __webpack_require__(/*! ./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js */ "./node_modules/@pmmmwh/react-refresh-webpack-plugin/lib/runtime/RefreshUtils.js");
 __webpack_require__.$Refresh$.runtime = __webpack_require__(/*! ./node_modules/react-refresh/runtime.js */ "./node_modules/react-refresh/runtime.js");
 
-var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kayliesampson.me/src/index.js";
+var _jsxFileName = "/Users/kksamps2/Documents/GitHub/kaylie.dev/src/index.js";
 
 
 
@@ -846,7 +846,7 @@ if (typeof Promise !== 'undefined' && $ReactRefreshCurrentExports$ instanceof Pr
   \********************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -1202,7 +1202,7 @@ module.exports = Object.freeze({
   \*******************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "Animated": () => (/* binding */ Animated),
@@ -1604,7 +1604,7 @@ const getDisplayName = arg => _react_spring_shared__WEBPACK_IMPORTED_MODULE_0__.
   \***********************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "BailSignal": () => (/* binding */ BailSignal),
@@ -4330,7 +4330,7 @@ const update = _react_spring_shared__WEBPACK_IMPORTED_MODULE_0__.frameLoop.advan
   \***********************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "__raf": () => (/* binding */ __raf),
@@ -4567,7 +4567,7 @@ const __raf = {
   \***************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "FluidValue": () => (/* binding */ FluidValue),
@@ -5462,7 +5462,7 @@ function usePrev(value) {
   \*********************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "a": () => (/* binding */ animated),
@@ -5726,7 +5726,7 @@ const animated = host.animated;
   \***************************************************/
 /***/ ((module) => {
 
-"use strict";
+
 
 
 module.exports = ansiHTML; // Reference to https://github.com/sindresorhus/ansi-regex
@@ -6173,7 +6173,7 @@ module.exports = version;
   \*******************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 var global = __webpack_require__(/*! ../internals/global */ "./node_modules/core-js-pure/internals/global.js");
@@ -6770,7 +6770,7 @@ module.exports = uncurryThis({}.isPrototypeOf);
   \******************************************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 
 
 var $propertyIsEnumerable = {}.propertyIsEnumerable; // eslint-disable-next-line es-x/no-object-getownpropertydescriptor -- safe
@@ -7171,7 +7171,7 @@ module.exports = parent;
   \*****************************************************/
 /***/ ((module) => {
 
-"use strict";
+
 
 /*
   MIT License http://www.opensource.org/licenses/mit-license.php
@@ -7283,7 +7283,7 @@ module.exports = function (cssWithMappingToString) {
   \************************************************************/
 /***/ ((module) => {
 
-"use strict";
+
 
 
 module.exports = function (item) {
@@ -7315,7 +7315,7 @@ module.exports = function (item) {
   \***************************************/
 /***/ ((module) => {
 
-"use strict";
+
 // Copyright Joyent, Inc. and other Node contributors.
 //
 // Permission is hereby granted, free of charge, to any person obtaining a
@@ -7791,7 +7791,7 @@ function eventTargetAgnosticAddListener(emitter, name, listener, flags) {
   \*************************************************/
 /***/ (function(__unused_webpack_module, exports, __webpack_require__) {
 
-"use strict";
+
 
 
 var __assign = this && this.__assign || function () {
@@ -8025,7 +8025,7 @@ exports.decode = decode;
   \************************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -12423,7 +12423,7 @@ exports.namedReferences = {
   \***************************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -12468,7 +12468,7 @@ exports.numericUnicodeMap = {
   \***********************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -12956,7 +12956,7 @@ module.exports = throttle;
   \*********************************************/
 /***/ ((module) => {
 
-"use strict";
+
 /*
 object-assign
 (c) Sindre Sorhus
@@ -13061,7 +13061,7 @@ module.exports = shouldUseNative() ? Object.assign : function (target, source) {
   \***************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 /**
  * Copyright (c) 2013-present, Facebook, Inc.
  *
@@ -13169,7 +13169,7 @@ module.exports = checkPropTypes;
   \************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 /**
  * Copyright (c) 2013-present, Facebook, Inc.
  *
@@ -13864,7 +13864,7 @@ if (true) {
   \*************************************************************/
 /***/ ((module) => {
 
-"use strict";
+
 /**
  * Copyright (c) 2013-present, Facebook, Inc.
  *
@@ -13894,7 +13894,7 @@ module.exports = Function.call.bind(Object.prototype.hasOwnProperty);
   \************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "Chrono": () => (/* binding */ Ln)
@@ -17539,7 +17539,7 @@ var fn = function (e) {
   \*************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 /**
  * @license React
  * react-dom.development.js
@@ -17553,7 +17553,7 @@ var fn = function (e) {
 
 if (true) {
   (function () {
-    'use strict';
+    
     /* global __REACT_DEVTOOLS_GLOBAL_HOOK__ */
 
     if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== 'undefined' && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart === 'function') {
@@ -46882,7 +46882,7 @@ if (true) {
   \******************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 var m = __webpack_require__(/*! react-dom */ "./node_modules/react-dom/index.js");
@@ -46919,7 +46919,7 @@ if (false) {} else {
   \*****************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 function checkDCE() {
@@ -46961,7 +46961,7 @@ if (false) {} else {
   \***********************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 /** @license React v16.13.1
  * react-is.development.js
  *
@@ -46974,7 +46974,7 @@ if (false) {} else {
 
 if (true) {
   (function () {
-    'use strict'; // The Symbol used to tag the ReactElement-like types. If there is no native Symbol
+     // The Symbol used to tag the ReactElement-like types. If there is no native Symbol
     // nor polyfill, then a plain number is used for performance.
 
     var hasSymbol = typeof Symbol === 'function' && Symbol.for;
@@ -47160,7 +47160,7 @@ if (true) {
   \****************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 if (false) {} else {
@@ -47175,7 +47175,7 @@ if (false) {} else {
   \*****************************************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 /** @license React vundefined
  * react-refresh-runtime.development.js
  *
@@ -47188,7 +47188,7 @@ if (false) {} else {
 
 if (true) {
   (function () {
-    'use strict'; // ATTENTION
+     // ATTENTION
     // When adding new symbols to this file,
     // Please consider also adding to 'react-devtools-shared/src/backend/ReactSymbols'
     // The Symbol used to tag the ReactElement-like types. If there is no native Symbol
@@ -47889,7 +47889,7 @@ if (true) {
   \***********************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 if (false) {} else {
@@ -47904,7 +47904,7 @@ if (false) {} else {
   \****************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -48003,7 +48003,7 @@ exports["default"] = (0, _scrollLink2.default)(ButtonElement);
   \*****************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -48137,7 +48137,7 @@ exports["default"] = (0, _scrollElement2.default)(ElementWrapper);
   \**************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -48221,7 +48221,7 @@ exports["default"] = (0, _scrollLink2.default)(LinkElement);
   \****************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -48306,7 +48306,7 @@ exports["default"] = {
   \*************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 
 /* DEPRECATED */
 
@@ -48699,7 +48699,7 @@ module.exports = Helpers;
   \********************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -48990,7 +48990,7 @@ exports["default"] = {
   \*******************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -49016,7 +49016,7 @@ exports["default"] = {
   \*****************************************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -49061,7 +49061,7 @@ var removePassiveEventListener = exports.removePassiveEventListener = function r
   \********************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -49225,7 +49225,7 @@ exports["default"] = function (Component) {
   \*******************************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -49252,7 +49252,7 @@ exports["default"] = Events;
   \*****************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -49345,7 +49345,7 @@ exports["default"] = scrollHash;
   \*****************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -49708,7 +49708,7 @@ exports["default"] = function (Component, customScroller) {
   \****************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -49818,7 +49818,7 @@ exports["default"] = scrollSpy;
   \**************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -49948,7 +49948,7 @@ exports["default"] = {
   \************************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -50031,7 +50031,7 @@ exports["default"] = {
   \***********************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 
 
 Object.defineProperty(exports, "__esModule", ({
@@ -50152,7 +50152,7 @@ exports["default"] = {
   \************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _react_spring_web__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @react-spring/web */ "./node_modules/@react-spring/web/dist/react-spring-web.esm.js");
 /* harmony reexport (unknown) */ var __WEBPACK_REEXPORT_OBJECT__ = {};
@@ -50168,7 +50168,7 @@ __webpack_require__.r(__webpack_exports__);
   \*********************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -50341,7 +50341,7 @@ TextTransition.defaultProps = {
   \*************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__),
@@ -50362,7 +50362,7 @@ __webpack_require__.r(__webpack_exports__);
   \*****************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "Globals": () => (/* binding */ Globals),
@@ -52423,7 +52423,7 @@ const extendedAnimated = apply(domElements);
   \*********************************************************************/
 /***/ ((__unused_webpack_module, exports, __webpack_require__) => {
 
-"use strict";
+
 /**
  * @license React
  * react-jsx-dev-runtime.development.js
@@ -52437,7 +52437,7 @@ const extendedAnimated = apply(domElements);
 
 if (true) {
   (function () {
-    'use strict';
+    
 
     var React = __webpack_require__(/*! react */ "./node_modules/react/index.js"); // ATTENTION
     // When adding new symbols to this file,
@@ -53697,7 +53697,7 @@ if (true) {
   \*****************************************************/
 /***/ ((module, exports, __webpack_require__) => {
 
-"use strict";
+
 /* module decorator */ module = __webpack_require__.nmd(module);
 /**
  * @license React
@@ -53712,7 +53712,7 @@ if (true) {
 
 if (true) {
   (function () {
-    'use strict';
+    
     /* global __REACT_DEVTOOLS_GLOBAL_HOOK__ */
 
     if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== 'undefined' && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart === 'function') {
@@ -56381,7 +56381,7 @@ if (true) {
   \*************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 if (false) {} else {
@@ -56396,7 +56396,7 @@ if (false) {} else {
   \***********************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 if (false) {} else {
@@ -56411,7 +56411,7 @@ if (false) {} else {
   \*************************************************************/
 /***/ ((__unused_webpack_module, exports) => {
 
-"use strict";
+
 /**
  * @license React
  * scheduler.development.js
@@ -56425,7 +56425,7 @@ if (false) {} else {
 
 if (true) {
   (function () {
-    'use strict';
+    
     /* global __REACT_DEVTOOLS_GLOBAL_HOOK__ */
 
     if (typeof __REACT_DEVTOOLS_GLOBAL_HOOK__ !== 'undefined' && typeof __REACT_DEVTOOLS_GLOBAL_HOOK__.registerInternalModuleStart === 'function') {
@@ -57036,7 +57036,7 @@ if (true) {
   \*****************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 if (false) {} else {
@@ -57051,7 +57051,7 @@ if (false) {} else {
   \***************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (/* binding */ WebSocketClient)
@@ -57143,7 +57143,7 @@ var WebSocketClient = /*#__PURE__*/function () {
   \********************************************************************************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 var __resourceQuery = "?protocol=ws%3A&hostname=0.0.0.0&port=3000&pathname=%2Fws&logging=none&reconnect=10";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var webpack_hot_log_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! webpack/hot/log.js */ "./node_modules/webpack/hot/log.js");
@@ -57443,7 +57443,7 @@ var socketURL = (0,_utils_createSocketURL_js__WEBPACK_IMPORTED_MODULE_8__["defau
   // webpackBootstrap
 
   /******/
-  "use strict";
+  
   /******/
 
   var __webpack_modules__ = {
@@ -58424,7 +58424,7 @@ var socketURL = (0,_utils_createSocketURL_js__WEBPACK_IMPORTED_MODULE_8__["defau
   \***********************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "formatProblem": () => (/* binding */ formatProblem),
@@ -58642,7 +58642,7 @@ function show(type, messages) {
   \**********************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "client": () => (/* binding */ client),
@@ -58725,7 +58725,7 @@ var socket = function initSocket(url, handlers, reconnect) {
   \*************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -58876,7 +58876,7 @@ function createSocketURL(parsedURL) {
   \********************************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -58916,7 +58916,7 @@ function getCurrentScriptSource() {
   \*************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "log": () => (/* binding */ log),
@@ -58953,7 +58953,7 @@ var log = _modules_logger_index_js__WEBPACK_IMPORTED_MODULE_0___default().getLog
   \******************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59009,7 +59009,7 @@ function parseURL(resourceQuery) {
   \*******************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59098,7 +59098,7 @@ function reloadApp(_ref, status) {
   \*********************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59129,7 +59129,7 @@ function sendMsg(type, data) {
   \*******************************************************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59354,7 +59354,7 @@ module.exports.formatError = function (err) {
   \****************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59382,7 +59382,7 @@ ___CSS_LOADER_EXPORT___.locals = {};
   \***********************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59410,7 +59410,7 @@ ___CSS_LOADER_EXPORT___.locals = {};
   \*********************************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59438,7 +59438,7 @@ ___CSS_LOADER_EXPORT___.locals = {};
   \*************************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59466,7 +59466,7 @@ ___CSS_LOADER_EXPORT___.locals = {};
   \***************************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59494,7 +59494,7 @@ ___CSS_LOADER_EXPORT___.locals = {};
   \***********************************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59522,7 +59522,7 @@ ___CSS_LOADER_EXPORT___.locals = {};
   \******************************************************************************************************************************************************************************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59550,7 +59550,7 @@ ___CSS_LOADER_EXPORT___.locals = {};
   \****************************************************************************/
 /***/ ((module) => {
 
-"use strict";
+
 
 
 var stylesInDOM = [];
@@ -59664,7 +59664,7 @@ module.exports = function (list, options) {
   \********************************************************************/
 /***/ ((module) => {
 
-"use strict";
+
 
 
 var memo = {};
@@ -59713,7 +59713,7 @@ module.exports = insertBySelector;
   \**********************************************************************/
 /***/ ((module) => {
 
-"use strict";
+
 
 
 /* istanbul ignore next  */
@@ -59734,7 +59734,7 @@ module.exports = insertStyleElement;
   \**********************************************************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 
 
 /* istanbul ignore next  */
@@ -59756,7 +59756,7 @@ module.exports = setAttributesWithoutAttributes;
   \***************************************************************/
 /***/ ((module) => {
 
-"use strict";
+
 
 
 /* istanbul ignore next  */
@@ -59836,7 +59836,7 @@ module.exports = domAPI;
   \*********************************************************************/
 /***/ ((module) => {
 
-"use strict";
+
 
 
 /* istanbul ignore next  */
@@ -59862,7 +59862,7 @@ module.exports = styleTagTransform;
   \*********************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -59975,7 +59975,7 @@ if (true) {
   \****************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -60088,7 +60088,7 @@ if (true) {
   \**************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -60201,7 +60201,7 @@ if (true) {
   \******************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -60314,7 +60314,7 @@ if (true) {
   \********************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -60427,7 +60427,7 @@ if (true) {
   \****************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -60540,7 +60540,7 @@ if (true) {
   \***********************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
@@ -60653,7 +60653,7 @@ if (true) {
   \***************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 module.exports = __webpack_require__.p + "static/media/Kaylie_Sampson.a83b3288569dad5a0c10.pdf";
 
 /***/ }),
@@ -60664,7 +60664,7 @@ module.exports = __webpack_require__.p + "static/media/Kaylie_Sampson.a83b328856
   \************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 module.exports = __webpack_require__.p + "static/media/kaylieEmoji.96c65f2c9f843e66f1c9.png";
 
 /***/ }),
@@ -60675,7 +60675,7 @@ module.exports = __webpack_require__.p + "static/media/kaylieEmoji.96c65f2c9f843
   \**************************************/
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
-"use strict";
+
 module.exports = __webpack_require__.p + "static/media/kaylieProfile.7a9ea556873ff31b584f.png";
 
 /***/ }),
@@ -60715,7 +60715,7 @@ if (true) {
   \************************************************************/
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (/* binding */ _extends)
@@ -60746,7 +60746,7 @@ function _extends() {
   \*********************************************************************************/
 /***/ ((__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) => {
 
-"use strict";
+
 __webpack_require__.r(__webpack_exports__);
 /* harmony export */ __webpack_require__.d(__webpack_exports__, {
 /* harmony export */   "default": () => (/* binding */ _objectWithoutPropertiesLoose)
@@ -60901,7 +60901,7 @@ function _objectWithoutPropertiesLoose(source, excluded) {
 /******/ 	/* webpack/runtime/load script */
 /******/ 	(() => {
 /******/ 		var inProgress = {};
-/******/ 		var dataWebpackPrefix = "kayliesampson.me:";
+/******/ 		var dataWebpackPrefix = "kaylie.dev:";
 /******/ 		// loadScript function to load a script via script tag
 /******/ 		__webpack_require__.l = (url, done, key, chunkId) => {
 /******/ 			if(inProgress[url]) { inProgress[url].push(done); return; }

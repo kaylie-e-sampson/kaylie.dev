@@ -11,7 +11,7 @@ function Footer() {
           <SocialIcon url="https://github.com/kaylie-e-sampson" network="github" fgColor='white' bgColor="#54677D" style={{ height: 70, width: 70 }}></SocialIcon>
           <SocialIcon url="https://www.linkedin.com/in/kaylie-e-sampson" network="linkedin" fgColor='white' bgColor="#54677D" style={{ height: 70, width: 70 }}></SocialIcon>
         </div>
-        <a href={"https://github.com/kaylie-e-sampson/kayliesampson.me"} target="_blank" rel="noreferrer" className='HeaderItem' style={{color: 'white'}}>Source Code</a>
+        <a href={"https://github.com/kaylie-e-sampson/kaylie.dev"} target="_blank" rel="noreferrer" className='HeaderItem' style={{color: 'white'}}>Source Code</a>
     </div>
   )
 }
