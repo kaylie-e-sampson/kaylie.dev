@@ -1,4 +1,5 @@
 # Kaylie Sampson Personal Website
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f79149bd-57d8-4478-a927-cc164cd0d188/deploy-status)](https://app.netlify.com/sites/kayliesampson/deploys)
 
 
 **Author:** Kaylie Sampson <br />
