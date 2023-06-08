@@ -10,7 +10,7 @@ const Experience = () => {
     cardDetailedText: "As a development mentor in the lab, I collaborate with designers and other developers to produce frontend and backend logic for mobile applications using React, React-Native, and Redux. I also move DALI developers forward by encouraging quality work, developing better systems and resources, and providing mentorship"
   },
   {
-    title: "Jan 2023 - Present",
+    title: "Jan 2023 - Mar  2023",
     cardTitle: "Dartmouth Computer Science Department",
     cardSubtitle:"Teaching Assistant",
     cardDetailedText: "As a teaching assistant for CS1 (Introduction to Programming and Computation), I lead groups of students in weekly meetings to reinforce fundamental concepts and teach new ideas. I also provide guidance and mentorship throughout the term to students struggling with class concepts and programming labs."
@@ -28,10 +28,10 @@ const Experience = () => {
     cardDetailedText:"As a student leader, I Amplify the voice and values of first-year/sophomore undergraduate women studying computer science, serve as an active contributor concerning policies or actions adopted by RTC, and participate in leadership learning workshops as part of the RTC Rising Leader Institute",
   },
   {
-    title: "Jan 2022 - Jun 2022",
+    title: "Jan 2022 - Present",
     cardTitle: "Women in Computer Science",
-    cardSubtitle: "Recruiting Chair",
-    cardDetailedText: "As a member of the executive board, I conduct meetings for recruiting preparation, technical interview practice, and organize interview workshops. I also manage relationships with company recruiters and the Center of Professional Development at Dartmouth" 
+    cardSubtitle: "President",
+    cardDetailedText: "As a co-president of the club, I am responsible for overseeing the planning and execution of initiatives to create a community of women interested in computer science and technology. I do so by managing a team of officers, delegating responsibilities, and providing guidance to ensure the smooth operation of the organization and successful execution of projects. " 
   }
   ];
 
@@ -68,9 +68,9 @@ const Experience = () => {
           <h8>Summer 7-week program (2020)</h8> <br/>
           <h2>Organizations</h2>
           <h8>Rewriting the Code</h8><br></br><h8><em>Student Leader</em></h8><br></br><br></br>
+          <h8>National Center for Women and Informational Technology</h8><br></br><h8><em>Member</em></h8><br></br><br></br>
           <h8>HackDartmouth</h8><br></br><h8><em>Developer & Career Hub Contributor</em></h8><br></br><br></br>
-          <h8>Women in Computer Science</h8><br></br><h8><em>Recruiting Chair</em></h8><br></br><br></br>
-          <h8>Dartmouth Club Nordic</h8><br></br><h8><em>Member</em></h8><br></br><br></br>
+          <h8>Women in Computer Science</h8><br></br><h8><em>President</em></h8><br></br><br></br>
           <h8>CoderDojo</h8><br></br><h8><em>Member</em></h8><br></br><br></br>
         </div>
       </div>
