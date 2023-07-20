@@ -9,7 +9,8 @@ const TEXTS = [
   "tree-hugger. 🌲",
   "weightlifter. 🏋️‍♀️",
   "cross country skier. ⛷",
-  "scrapbooker. 📓"
+  "scrapbooker. 📓",
+  "developer. 💻",
 ];
 
 const Title = () => {

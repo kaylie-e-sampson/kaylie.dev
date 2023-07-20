@@ -3,17 +3,23 @@ import { Chrono } from 'react-chrono'
 import './Experience.css';
 
 const Experience = () => {
-  const experienceItems = [{
+  const experienceItems = [
+    {
+      title: "Jun 2023 - Present",
+      cardTitle: "Amazon Web Services",
+      cardSubtitle: "Software Engineer Intern",
+      cardDetailedText: "As a member of the AWS Aurora team, I am developing a protocol state machine in Rust that will keep track of the state of PostgreSQL protocol messages and allow for the registration of additional actions alongside the communcation between the server and client"
+    },{
     title: "Jan 2022 - Present",
     cardTitle: "Digital Applied Learning and Innovation (DALI) Lab",
     cardSubtitle: "Software Developer, Mentor",
     cardDetailedText: "As a development mentor in the lab, I collaborate with designers and other developers to produce frontend and backend logic for mobile applications using React, React-Native, and Redux. I also move DALI developers forward by encouraging quality work, developing better systems and resources, and providing mentorship"
   },
   {
-    title: "Jan 2023 - Mar  2023",
+    title: "Jan 2023 - Mar 2023",
     cardTitle: "Dartmouth Computer Science Department",
     cardSubtitle:"Teaching Assistant",
-    cardDetailedText: "As a teaching assistant for CS1 (Introduction to Programming and Computation), I lead groups of students in weekly meetings to reinforce fundamental concepts and teach new ideas. I also provide guidance and mentorship throughout the term to students struggling with class concepts and programming labs."
+    cardDetailedText: "As a teaching assistant for CS1 (Introduction to Programming and Computation), I lead groups of students in weekly meetings to reinforce fundamental concepts and teach new ideas. I also provide guidance and mentorship throughout the term to students struggling with class concepts and programming labs"
   },
     {
     title: "Jun 2022 - September 2022",
@@ -22,17 +28,17 @@ const Experience = () => {
     cardDetailedText: "As a member of the Cloud-Native Runtime team, I developed resources that support microservices, internally used testing infrastructure, and related features, participated in daily standup, sprints, and full agile process as part of a team of five software engineers, and utilized Docker, Gradle, and Jenkins to build and implement tests"
   },
   {
+    title: "Mar 2023 - Present",
+    cardTitle: "Women in Computer Science",
+    cardSubtitle: "President",
+    cardDetailedText: "As a co-president of the club, I am responsible for overseeing the planning and execution of initiatives to create a community of women interested in computer science and technology. I do so by managing a team of officers, delegating responsibilities, and providing guidance to ensure the smooth operation of the organization and successful execution of projects" 
+  },
+  {
     title: "Jun 2022 - Present",
     cardTitle: "Rewriting the Code",
     cardSubtitle:"Student Council Peer Leader",
     cardDetailedText:"As a student leader, I Amplify the voice and values of first-year/sophomore undergraduate women studying computer science, serve as an active contributor concerning policies or actions adopted by RTC, and participate in leadership learning workshops as part of the RTC Rising Leader Institute",
   },
-  {
-    title: "Jan 2022 - Present",
-    cardTitle: "Women in Computer Science",
-    cardSubtitle: "President",
-    cardDetailedText: "As a co-president of the club, I am responsible for overseeing the planning and execution of initiatives to create a community of women interested in computer science and technology. I do so by managing a team of officers, delegating responsibilities, and providing guidance to ensure the smooth operation of the organization and successful execution of projects. " 
-  }
   ];
 
     const theme = {
