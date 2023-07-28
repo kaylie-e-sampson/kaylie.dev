@@ -17,10 +17,9 @@ function About() {
         Hello, world! <br/>
         My name is Kaylie Sampson, and I’m a Dartmouth ’25 from Ashland, New Hampshire.
         I’m currently pursuing a Computer Science major and a Digital Arts minor. <br/>
-        In the past years, I have learned that the potential for computer programming is limitless, and my goal is to be involved in the finding of 
-        new discoveries that at first seem unreachable. Whether it be designing a robot smarter than that of the human brain, developing applications to be used worldwide, or becoming an experienced hacker in order 
-        to outsmart other hackers in the world of cybersecurity, the options are endless. But in order for me to reach such dreams, I must continue my journey by immersing myself in new languages, from “Hello, World” to mastery of the syntax, and seeing where it takes me. <br /> 
-        I am motivated to go above and beyond in the opportunities given to me, and strengthen my talent in the CS field!
+        Alongside my love for programming, I am passionate about making a difference in others lives. I take on many leadership roles to help foster 
+        a community of collaboration and growth in the tech industry. As a first-generation student and woman in the field, I am also a strong advocate for mentorship and supporting underrepresented groups. 
+        I find motivation in helping the people around me, and I aim to continue supporting others while navigating my journey in the tech world.
         </h7>
       </div>
     </div>
